@@ -2,7 +2,7 @@
 
 👀 I'm your friendly neighborhood data explorer, always on the lookout for insights lurking in numbers and patterns 🔍
 
-🌱 Currently expanding my data analysis arsenal with SQL, R, Python, and Power BI (Think of me as a data ninja-in-training 🥷)
+🌱 Currently expanding my data analysis arsenal with SQL, R, Python, and Power BI 
 
 💞️ Let's join forces on data-driven adventures! I'm always up for collaborating on projects where we can uncover hidden stories and bring data to life 🧭
 
